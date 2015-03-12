@@ -82,11 +82,10 @@ On Friday, you’ll show your prototype to real customers in 1-on-1 interviews. 
 > 金曜日は、1対1のインタビューで実際のお客さんにプロトタイプを見せます。
 観察対象の感覚をつかむ方法を示します。リアルタイムにパターンを見つけてチームでノートを取ります。
 1日の最後には、アイデアは全ての酸素にさらされます。
-すぐに終了する、いくつかはスマッシュヒットとなり、他はすぐに終了を迎えるでしょう。
+いくつかはスマッシュヒットとなり、他はすぐに終了を迎えるでしょう。
 
 Obviously, when a risky idea succeeds, it’s a fantastic payoff. But it’s actually those epic failures which, while painful to watch, provide the greatest return on investment. When a prototype flops, it means we’ve spotted critical flaws after only five days of work. It’s learning the hard way — without the “hard way.”
 
 > 明らかに、リスキーなアイデアが成功した場合、それはファンタスティックなペイオフです。
 しかし、それは実際には叙事詩の障害でもあり、痛みを伴うが、投資への最大のリターンを提供します。
-プロトタイプが倒れた場合、それは我々が5日だけ働いた後に重大な欠陥を発見してきたことを意味します。これは、ハードな方法を避けてハードな方法を学ぶことだ。
-ます。
+プロトタイプが倒れた場合、それは我々が5日働いただけで重大な欠陥を発見できたことを意味します。これは、ハードな方法を避けてハードな方法を学ぶことです。
